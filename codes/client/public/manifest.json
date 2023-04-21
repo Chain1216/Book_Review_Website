@@ -1,0 +1,15 @@
+{
+  "short_name": "Amazon Book Review",
+  "name": "CIS 550 - Group Project (Amazon Book Review) Client",
+  "icons": [
+    {
+      "src": "amazonbook.jpg",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

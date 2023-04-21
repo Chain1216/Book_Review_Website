@@ -1,0 +1,9 @@
+{
+    "rds_host": "database-1.cw7vwizzc8bi.us-east-1.rds.amazonaws.com",
+    "rds_port": "3306",
+    "rds_user": "admin",
+    "rds_password" : "CIS550fantastic4",
+    "rds_db": "BOOK_REVIEW",
+    "server_host": "127.0.0.1",
+    "server_port":"8080"
+}
